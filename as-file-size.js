@@ -1,3 +1,2 @@
 console.log(document.currentScript);
-console.log(currentScript);
-console.log(currentScript.split`-`);
+console.log(document.currentScript.split`-`);
